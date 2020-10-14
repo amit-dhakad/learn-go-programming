@@ -10,9 +10,7 @@ import (
 
 func main() {
 	fmt.Println(numbers.IsPrime(19))
-
 	fmt.Println(greeting.WelcomeText)
-
 	fmt.Println(strings.Reverse("hello world"))
 
 }
